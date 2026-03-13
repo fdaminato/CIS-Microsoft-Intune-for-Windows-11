@@ -73,6 +73,7 @@ The script helps organizations quickly identify configurations that deviate from
 ```
 CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/
 ├── CIS_Intune_W11_v4_Assessment.ps1 # The main PowerShell assessment script
+├── CIS_Microsoft_Intune_for_Windows_11_v3.0.1_L1.audit # The audit file
 └── README.md                         # This README file
 ```
 
