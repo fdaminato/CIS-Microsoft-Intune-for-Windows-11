@@ -823,13 +823,3 @@ Write-Good "CSV export:   $csvPath"
 if (-not $DoNotOpenReport) {
     try { Start-Process $htmlPath } catch {}
 }
-
-Write-Host "`n=====================================================" -ForegroundColor Cyan
-Write-Host " $benchName — Local Audit Summary" -ForegroundColor Cyan
-Write-Host "=====================================================" -ForegroundColor Cyan
-Write-Host " Total checks : $totalChecks"
-Write-Host " Passed       : $passCount" -ForegroundColor Green
-Write-Host " Failed       : $failCount" -ForegroundColor Red
-Write-Host " Other        : $manualCount"
-Write-Host " Score        : ${scorePercent}%" -ForegroundColor $(if($scorePercent -ge 80){'Green'}elseif($scorePercent -ge 50){'Yellow'}else{'Red'})
-Write-Host "=====================================================`n" -ForegroundColor Cyan
