@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1/network)
-[![GitHub issues](https://img.shields.io/github/issues/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1/issues)
-[![GitHub license](https://img.shields.io/github/license/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1?style=for-the-badge)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/network)
+[![GitHub issues](https://img.shields.io/github/issues/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/issues)
+[![GitHub license](https://img.shields.io/github/license/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1?style=for-the-badge)](LICENSE)
 
 **Automated PowerShell script for assessing Windows 11 configurations against the CIS Microsoft Intune Benchmark v4.0.0 Level 1.**
 
@@ -42,8 +42,8 @@ The script helps organizations quickly identify configurations that deviate from
 
 1.  **Clone the repository** (or download the script directly):
     ```bash
-    git clone https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1.git
-    cd CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1
+    git clone https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1.git
+    cd CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1
     ```
 
 ### Usage
@@ -72,7 +72,7 @@ The script helps organizations quickly identify configurations that deviate from
 ## 📁 Project Structure
 
 ```
-CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1/
+CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/
 ├── CIS_Intune_W11_v4_Assessment.ps1 # The main PowerShell assessment script
 └── README.md                         # This README file
 ```
@@ -105,7 +105,7 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 
 ## 📞 Support & Contact
 
--   🐛 Issues: [GitHub Issues](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-Benchmark-v4.0.0-Level-1L1/issues)
+-   🐛 Issues: [GitHub Issues](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/issues)
 
 ---
 
