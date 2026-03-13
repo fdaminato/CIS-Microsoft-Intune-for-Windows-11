@@ -614,7 +614,7 @@ $osCaption    = if ($osInfo) { $osInfo.Caption } else { 'Unknown OS' }
 $osBuild      = if ($osInfo) { $osInfo.BuildNumber } else { 'N/A' }
 $reportDate   = Get-Date -Format "dddd, MMMM d, yyyy 'at' HH:mm:ss"
 $runAsUser    = [System.Security.Principal.WindowsIdentity]::GetCurrent().Name
-$benchName    = 'CIS Microsoft Intune for Windows 11 v4.0.0 L1'
+$benchName = [System.IO.Path]::GetFileNameWithoutExtension($AuditFilePath) -replace '_', ' '
 
 Write-Good "Assessment complete: $passCount/$totalChecks passed ($scorePercent%)."
 
