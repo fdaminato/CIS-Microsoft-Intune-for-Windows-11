@@ -5,7 +5,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/network)
 [![GitHub issues](https://img.shields.io/github/issues/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1?style=for-the-badge)](https://github.com/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1/issues)
-[![GitHub license](https://img.shields.io/github/license/nakotw/CIS-Microsoft-Intune-for-Windows-11-v4.0.0-L1?style=for-the-badge)](LICENSE)
 
 **Automated PowerShell script for assessing Windows 11 configurations against the CIS Microsoft Intune Benchmark v4.0.0 Level 1.**
 
